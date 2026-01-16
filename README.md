@@ -11,7 +11,6 @@ Structure:
 ├── data/              # Raw data
 ├── notebooks/         # Jupyter notebooks for exploration, training, analysis
 ├── results/           # Generated outputs (figures, tables, metrics, models, Interim data)
-├── venv/				 # created by Python
 └── README.md
 
 Overview:
