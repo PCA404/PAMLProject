@@ -1,0 +1,21 @@
+characteristic,value,n,%
+Total patients,,327,100.0
+Age,Mean ± SD,58.67 ± 11.90,
+Age,Median (IQR),60.00 (49.00–68.00),
+Age,Missing,75,22.9
+Tumor size,Mean ± SD,2.22 ± 1.13,
+Tumor size,Median (IQR),2.10 (1.50–2.80),
+Tumor size,Missing,76,23.2
+node,Node negative,192,58.7
+node,Node positive,55,16.8
+node,Missing,80,24.5
+grade,2.0,143,43.7
+grade,1.0,68,20.8
+grade,3.0,64,19.6
+grade,Missing,52,15.9
+er,ER positive,262,80.1
+er,ER negative,46,14.1
+er,Missing,19,5.8
+relapse,No relapse,128,39.1
+relapse,Relapse,90,27.5
+relapse,Missing,109,33.3
