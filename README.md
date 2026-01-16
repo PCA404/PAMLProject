@@ -26,7 +26,12 @@ Notebooks should be run according to the inital number, nevertheless they should
 Rarely, the order is not 100% working, as the Notebooks were created iteratively - you are asked to rerun the cell after 
 the following cells are run. Thank you.
 
+Python: 3.12.2
+Platform: Windows-11-10.0.26100-SP0
+'3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]'
+Python was run using Pycharm Community Edition 2023.3.4
 
+run from pycharm 
 pip Freeze:
 anyio==4.12.0
 argon2-cffi==25.1.0
